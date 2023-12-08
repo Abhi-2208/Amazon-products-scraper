@@ -1,0 +1,9 @@
+This project involves the extraction of data from the Amazon website, which presents challenges due to the occurrence of a status code 503. To circumvent this limitation, the approach adopted is to first save the webpage as an HTML file. Subsequently, the data extraction process is conducted using the BeautifulSoup library to parse the HTML file.
+
+This methodology allows for a comprehensive and structured analysis of the saved HTML, facilitating the retrieval of relevant information. By employing BeautifulSoup, a powerful Python library for web scraping, the project aims to extract and interpret data efficiently.
+
+It's important to note that this initiative adheres to legal and ethical considerations, respecting the terms of service and policies of the website in question. This project serves as an example of handling challenges in web scraping scenarios, showcasing a thoughtful and resourceful approach to data extraction.
+
+
+
+
